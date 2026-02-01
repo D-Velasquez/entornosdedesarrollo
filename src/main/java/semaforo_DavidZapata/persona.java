@@ -1,7 +1,7 @@
 package semaforo_DavidZapata;
 
 public class persona {
-    private int Edad;
+    int Edad;
     String Nombre;
 
     public int getEdad() {
